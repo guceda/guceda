@@ -13,7 +13,7 @@ I'm Gonzalo Uceda, an HCID master's student at KTH in Stockholm. I also work in 
 ![GitLab](https://img.shields.io/badge/-GitLab-gray?style=flat-square&logo=gitlab)
 ![D3.js](https://img.shields.io/badge/-D3.js-gray?style=flat-square&logo=D3.js)
 
-# Find me here:
+# 
 <p>
     <a
       target="_blank"
