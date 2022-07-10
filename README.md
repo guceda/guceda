@@ -39,3 +39,6 @@ I'm Gonzalo Uceda, an HCID master's student at KTH in Stockholm. Currently worki
       />
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+# Curriculum
+[Gonzalo Uceda CV](./two-pager.pdf)
