@@ -1,6 +1,6 @@
 # Hi there!
  
-I'm Gonzalo Uceda, an HCID master's student at KTH in Stockholm. Currently working in Front-end and data visualzation. In my spare time I study Telecommunications Technologies and Services Engineering at UOC. 
+I'm Gonzalo Uceda, an HCID master's student at KTH in Stockholm. Currently working in Front-end and data visualization. In my spare time I study Telecommunications Technologies and Services Engineering at UOC. 
 
 # Tech Stack:
 
