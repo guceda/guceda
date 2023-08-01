@@ -1,9 +1,11 @@
 # Hi there!
  
-Hi! My name is Gonzalo Uceda. I am a passionate Software Engineer who thrives at the intersection of design and engineering.
+Hi! My name is Gonzalo. I am a passionate Software Engineer who thrives at the intersection of design and engineering. I hold a Double Master's degree in ICT Innovation, with a focus on Computational Interaction. I have mostly worked in JavaScript and TypeScript doing front end and data visualization. I also spent quite some time working in the Machine Learning field, implementing algorithms for time-series real-time anomaly detection.  I currently work as a full-time Senior Software Engineer for a SIEM company, and on the side, I'm also a collaborating professor in the HCI department of Computer Engineering at UOC University.
 
+In my free time, I love learning about new advancements in technology and design, and I enjoy practicing nature sports. 
 
-# 
+# About me
+
 <p>
     <a
       target="_blank"
@@ -15,7 +17,7 @@ Hi! My name is Gonzalo Uceda. I am a passionate Software Engineer who thrives at
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a
-      href="mailto:gon_u@hotmail.com"
+      href="mailto:gooucas@gmail.com"
     >
       <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -30,5 +32,4 @@ Hi! My name is Gonzalo Uceda. I am a passionate Software Engineer who thrives at
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# About me
-[https://gooucas.com/](https://gooucas.com/)
+Or my personal website: [https://gooucas.com/](https://gooucas.com/)
