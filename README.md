@@ -1,17 +1,7 @@
 # Hi there!
  
-I'm Gonzalo Uceda, an HCID master's student at KTH in Stockholm. Currently working in Front-end and data visualization. In my spare time I study Telecommunications Technologies and Services Engineering at UOC. 
+Hi! My name is Gonzalo Uceda. I am a passionate Software Engineer who thrives at the intersection of design and engineering.
 
-# Tech Stack:
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-gray?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-gray?style=flat-square&logo=react)
-![Git](https://img.shields.io/badge/-Git-gray?style=flat-square&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-gray?style=flat-square&logo=gitlab)
-![D3.js](https://img.shields.io/badge/-D3.js-gray?style=flat-square&logo=D3.js)
 
 # 
 <p>
@@ -40,5 +30,5 @@ I'm Gonzalo Uceda, an HCID master's student at KTH in Stockholm. Currently worki
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-# Curriculum
-[Gonzalo Uceda CV](./two-pager.pdf)
+# About me
+[https://gooucas.com/](https://gooucas.com/)
