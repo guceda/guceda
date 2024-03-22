@@ -1,6 +1,6 @@
 # Hi there!
  
-Hi! My name is Gonzalo. I am a passionate Software Engineer who thrives at the intersection of design and engineering. I hold a Double Master's degree in ICT Innovation, with a focus on Computational Interaction. I have mostly worked in JavaScript and TypeScript doing front end and data visualization. I also spent quite some time working in the Machine Learning field, implementing algorithms for time-series real-time anomaly detection.  I currently work as a full-time Senior Software Engineer for a SIEM company, and on the side, I'm also a collaborating professor in the HCI department of Computer Engineering at UOC University.
+Hi! My name is Gonzalo. I am a passionate Software Engineer who thrives at the intersection of design and engineering. I hold a Double Master's degree in ICT Innovation, with a focus on Computational Interaction. I have mostly worked in JavaScript and TypeScript doing front end and data visualization. I also spent quite some time working in the Machine Learning field, implementing algorithms for time-series real-time anomaly detection.  I currently work as a full-time Senior Software Engineer at Datadog, and on the side, I'm also a collaborating professor in the HCI department of Computer Engineering at UOC University.
 
 In my free time, I love learning about new advancements in technology and design, and I enjoy practicing nature sports. 
 
